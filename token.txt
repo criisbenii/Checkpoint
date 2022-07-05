@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Magdalena eltokendemagui
 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
+=======
+
+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
+token cris:1234
+>>>>>>> b8da6c4778c4625c8c6e84d4c59f3f949c0bd57f
